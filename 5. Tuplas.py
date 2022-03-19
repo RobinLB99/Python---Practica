@@ -1,6 +1,5 @@
 # Las tuplas son listas inmutalbes. es decir, listas que no se pueden modificar despues de su creacion.
 # Si permiten extraer porsiones, pero el resultado sera otra Tupla.
-# No permite realizar busqueda.
 # Si permite comprobar si un elemento existe en la Tupla.
 # Las Tuplas son mas rapidas, utilizan menos espacios, formatean Strings y pueden utilizarse como claves en un diccionario.
 
