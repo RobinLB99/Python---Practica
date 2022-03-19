@@ -1,4 +1,4 @@
-# Son extructuras de datos que no permiten almacenar valores de diferentes tipos (enteros, cadenas de texto, decimales) e incluso listas y otros diccionarios.
+# Son extructuras de datos que nos permiten almacenar valores de diferentes tipos (enteros, cadenas de texto, decimales) e incluso listas y otros diccionarios.
 # Los datos se almacenan asociados a una clave de tal forma que se crea una asociacion tipo clave : valor para cada elemento almacenado.
 # Los elementos almacenados no estan ordenados. El oreden es indiferente a la hora de almacenar informacion en un diccionario.
 
